@@ -1,0 +1,16 @@
+# Ignore build and IDE-specific files
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/*.class
+*.jar
+*.log
+*.iml
+.DS_Store
+*.swp
+.idea/
+*.bat
+*.sh
+
